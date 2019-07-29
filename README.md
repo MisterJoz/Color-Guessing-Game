@@ -1,6 +1,6 @@
-# Project Title
+# RGB Guessing Game
 
-One Paragraph of project description goes here
+Using JavaScipt, HTML, and CSS, this game test your knowledge of the RGB color model. Can you guess the right color given only the RGB() value?
 
 ## Getting Started
 
